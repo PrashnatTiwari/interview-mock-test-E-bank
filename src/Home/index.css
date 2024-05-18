@@ -1,0 +1,40 @@
+.website-logo {
+  height: 50px;
+  width: 100px;
+}
+
+.main-home-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #152850;
+  font-family: Roboto;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logout-button {
+  height: 4vh;
+  width: 8vw;
+  text-align: center;
+  border: 1px solid white;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+}
+
+.nav-container {
+  width: 90vw;
+  display: flex;
+  justify-content: space-between;
+  height: 30vh;
+  align-items: center;
+}
+
+.digital-card{
+  height: 400px;
+  width: 800px;
+  margin-bottom: 50px;
+}
